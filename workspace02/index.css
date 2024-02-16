@@ -1,0 +1,163 @@
+body {
+ background-image: url(../img/css2l.jpg);
+}
+
+
+
+
+
+.product {
+
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: solid;width: 200px;
+    margin: 20px;
+}   
+.product h1 {
+    color: antiquewhite;
+}
+
+
+.ul {
+    color: aquamarine;
+}
+
+.test {margin-left: 30px;
+    margin-right:  35px;
+    border-top-style: inset;
+    padding: 15px;
+    border-top-right-radius: 35px;
+    border-top-left-radius: 35px;
+}
+.ul {
+    margin: 40px;
+    border-style: solid;
+}
+
+
+
+
+
+
+.head {
+    font-style: italic;
+background-color: blue;
+border-radius: 10px;
+}
+
+
+
+
+
+.head {
+    color: chocolate;
+}
+
+
+
+
+ h2 {
+color: darkmagenta;
+}
+
+
+
+
+
+
+#line1 {
+color: blue;
+ }              
+             
+             
+    #line2 {
+    color: darkred;
+    }
+
+        #line3 {
+        color: green;
+        }
+
+    color: green;
+  
+    
+
+
+
+
+
+
+.line4 {
+    color: darkslateblue;
+    }
+
+        .line5 {
+        color: crimson;
+        }
+
+            .line6 {
+            color: darkgoldenrod;
+             }
+
+
+
+
+
+
+
+
+#line7 {
+    color: rgb(255, 0, 0);
+    }
+
+      #line8 {
+      color: rgb(255, 208, 0);
+       }
+
+           #line9 {
+           color: rgb(0, 26, 255);
+           }
+
+
+
+        
+
+
+ #line7 {
+background-color: blue;
+ }          
+    
+ 
+    #line8 {
+    background-color: darkmagenta;
+    }
+
+        
+       #line9 {
+        background-color: chartreuse;
+       }
+
+
+ .lorem {
+background-color: chocolate;color: aliceblue; }     
+
+
+
+
+.bg {
+    background-color: blueviolet;
+}
+
+
+ {
+    background-color: brown;color: aqua;
+}
+
+
+#div {
+background-color: crimson;
+color: blue;
+
+}
+
+
