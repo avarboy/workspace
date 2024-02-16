@@ -76,10 +76,10 @@ color: blue;
 
         #line3 {
         color: green;
-        }
+      
 
     color: green;
-  
+}
     
 
 
@@ -149,9 +149,9 @@ background-color: chocolate;color: aliceblue; }
 }
 
 
- {
+ * {
     background-color: brown;color: aqua;
-}
+} *
 
 
 #div {
